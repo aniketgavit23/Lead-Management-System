@@ -1,6 +1,6 @@
 # Lead Management System
 
-This project is developed by  (Aniket) and Harshvardhan for academic submission.
+This project was developed by  Aniket Gavit and Harshvardhan for academic submission.
 
 Project Name: Lead Management System
 
