@@ -1,8 +1,9 @@
 # Lead Management System
 
-This project is modified and customized by me (Aniket) and Harshvardhan for academic submission.
+This project is developed by  (Aniket) and Harshvardhan for academic submission.
 
-Project Name: CreativeLead CRM System
+Project Name: Lead Management System
+
 A professional Java-based Lead Management System for tracking sales leads with automatic scoring and analytics.
 
 ## 🚀 Features
